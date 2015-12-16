@@ -22,8 +22,9 @@ You'll need the following software installed to get started.
 git clone https://github.com/ibari/surfcast.git
 cd surfcast
 npm install
+bower install
 ```
 
 While you're working on the code, run:
 ```
-npm start
+nodemon index.js
