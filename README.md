@@ -7,7 +7,7 @@ An easy to use and understand surf forecast using Node / Express and Angular. Fo
 
 ## Requirements
 
-This project is built with Node, Express, Angular, and Foundation. 
+This project is built with Node, Express, Angular, and Bootstrap. 
 
 You'll need the following software installed to get started.
 
@@ -28,3 +28,4 @@ bower install
 While you're working on the code, run:
 ```
 nodemon index.js
+open http://localhost:4568/ in your browser
